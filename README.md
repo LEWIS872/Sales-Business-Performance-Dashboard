@@ -131,7 +131,7 @@ Future enhancements could include:
 
 ## Author
 
-**Lewis Gituma**
+**Lewis Muthuri**
 
 Junior Data Analyst | Business Analyst
 
